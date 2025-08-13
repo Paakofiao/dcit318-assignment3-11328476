@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment3", "assignment3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health", "health\health.csproj", "{7CAA58CD-F459-43FD-B2B4-AA88C54B1AAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warehouse", "warehouse\warehouse.csproj", "{23FBFCF6-22D1-4E33-B285-D92395C95650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7CAA58CD-F459-43FD-B2B4-AA88C54B1AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAA58CD-F459-43FD-B2B4-AA88C54B1AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAA58CD-F459-43FD-B2B4-AA88C54B1AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FBFCF6-22D1-4E33-B285-D92395C95650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FBFCF6-22D1-4E33-B285-D92395C95650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FBFCF6-22D1-4E33-B285-D92395C95650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FBFCF6-22D1-4E33-B285-D92395C95650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
